@@ -3,7 +3,7 @@
 
 ### 第一篇 - js篇
 
-* [第一章](https://github.com/Yoko613/jsonp-/blob/master/LICENSE.md/.gitignore/%E5%8E%9F%E7%90%86.md) 跨域访问原理
+* [第一章](https://github.com/Yoko613/learn-principle/blob/master/js/%E8%B7%A8%E5%9F%9F%E8%AE%BF%E9%97%AE.md) 跨域访问原理
 * [第二章](https://github.com/Yoko613/learn-javascript/tree/master/chapter2) 垃圾♻️机制
 
 ### 第二篇 - css&html篇
